@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background:#06bcc1 !important ;
+}
+
+.container{
+    width: 95%;
+    height: 100vh;
+    border: 1px solid black;
+    display: flex;
+}
+
+.btn .btn{
+    text-align: center ;
+}
+
+.quotes{
+border: 1px solid black;
+width: 900px;
+height: 450px;
+margin: auto;
+display: flex;
+}
+
